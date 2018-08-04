@@ -1,0 +1,9 @@
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\bin\Debug\accesdeneme.exe
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\bin\Debug\accesdeneme.pdb
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\accesdeneme.Form1.resources
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\accesdeneme.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\accesdeneme.exe
+c:\users\faruk\documents\visual studio 2010\Projects\accesdeneme\accesdeneme\obj\x86\Debug\accesdeneme.pdb
